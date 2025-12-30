@@ -1,0 +1,1052 @@
+[
+  {
+    "name": "Access Hospital Dayton",
+    "city": "Dayton",
+    "county": "Montgomery"
+  },
+  {
+    "name": "Adams County Regional Medical Center",
+    "city": "Seaman",
+    "county": "Adams"
+  },
+  {
+    "name": "Adena Fayette Medical Center",
+    "city": "Washington Court House",
+    "county": "Fayette"
+  },
+  {
+    "name": "Adena Pike Medical Center",
+    "city": "Waverly",
+    "county": "Pike"
+  },
+  {
+    "name": "Adena Regional Medical Center",
+    "city": "Chillicothe",
+    "county": "Ross"
+  },
+  {
+    "name": "Akron Children's Hospital",
+    "city": "Akron",
+    "county": "Summit"
+  },
+  {
+    "name": "Ashtabula County Medical Center (Cleveland Clinic affiliate)",
+    "city": "Ashtabula",
+    "county": "Ashtabula"
+  },
+  {
+    "name": "ACMC Healthcare System Glenbeigh (Cleveland Clinic affiliate)",
+    "city": "Rock Creek",
+    "county": "Ashtabula"
+  },
+  {
+    "name": "Aultman Alliance Community Hospital",
+    "city": "Alliance",
+    "county": "Stark"
+  },
+  {
+    "name": "Aultman Hospital",
+    "city": "Canton",
+    "county": "Stark"
+  },
+  {
+    "name": "Aultman Orrville Hospital",
+    "city": "Orrville",
+    "county": "Wayne"
+  },
+  {
+    "name": "Avita Health System Bucyrus Hospital",
+    "city": "Bucyrus",
+    "county": "Crawford"
+  },
+  {
+    "name": "Avita Health System Galion Hospital",
+    "city": "Galion",
+    "county": "Crawford"
+  },
+  {
+    "name": "Avita Health System Ontario Hospital",
+    "city": "Ontario",
+    "county": "Richland"
+  },
+  {
+    "name": "The Bellevue Hospital",
+    "city": "Bellevue",
+    "county": "Sandusky"
+  },
+  {
+    "name": "Blanchard Valley Health System Bluffton Hospital",
+    "city": "Bluffton",
+    "county": "Allen"
+  },
+  {
+    "name": "Blanchard Valley Health System Blanchard Valley Hospital",
+    "city": "Findlay",
+    "county": "Hancock"
+  },
+  {
+    "name": "Chillicothe VA Medical Center",
+    "city": "Chillicothe",
+    "county": "Ross"
+  },
+  {
+    "name": "The Christ Hospital",
+    "city": "Cincinnati",
+    "county": "Hamilton"
+  },
+  {
+    "name": "Cincinnati Children's Hospital Medical Center",
+    "city": "Cincinnati",
+    "county": "Hamilton"
+  },
+  {
+    "name": "Cincinnati VA Medical Center",
+    "city": "Cincinnati",
+    "county": "Hamilton"
+  },
+  {
+    "name": "Cleveland Clinic",
+    "city": "Cleveland",
+    "county": "Cuyahoga"
+  },
+  {
+    "name": "Cleveland Clinic Akron General",
+    "city": "Akron",
+    "county": "Summit"
+  },
+  {
+    "name": "Cleveland Clinic Akron General Lodi Hospital",
+    "city": "Lodi",
+    "county": "Medina"
+  },
+  {
+    "name": "Cleveland Clinic Avon Hospital",
+    "city": "Avon",
+    "county": "Lorain"
+  },
+  {
+    "name": "Cleveland Clinic Children's Hospital for Rehabilitation",
+    "city": "Cleveland",
+    "county": "Cuyahoga"
+  },
+  {
+    "name": "Cleveland Clinic Euclid Hospital",
+    "city": "Euclid",
+    "county": "Cuyahoga"
+  },
+  {
+    "name": "Cleveland Clinic Fairview Hospital",
+    "city": "Cleveland",
+    "county": "Cuyahoga"
+  },
+  {
+    "name": "Cleveland Clinic Hillcrest Hospital",
+    "city": "Mayfield Heights",
+    "county": "Cuyahoga"
+  },
+  {
+    "name": "Cleveland Clinic Lutheran Hospital",
+    "city": "Cleveland",
+    "county": "Cuyahoga"
+  },
+  {
+    "name": "Cleveland Clinic Marymount Hospital",
+    "city": "Garfield Heights",
+    "county": "Cuyahoga"
+  },
+  {
+    "name": "Cleveland Clinic Medina Hospital",
+    "city": "Medina",
+    "county": "Medina"
+  },
+  {
+    "name": "Cleveland Clinic Mentor Hospital (Hillcrest)",
+    "city": "Mentor",
+    "county": "Lake"
+  },
+  {
+    "name": "Cleveland Clinic Mercy Hospital",
+    "city": "Canton",
+    "county": "Stark"
+  },
+  {
+    "name": "Cleveland Clinic South Pointe Hospital",
+    "city": "Warrensville Heights",
+    "county": "Cuyahoga"
+  },
+  {
+    "name": "Cleveland Clinic Union Hospital",
+    "city": "Dover",
+    "county": "Tuscarawas"
+  },
+  {
+    "name": "Clinton Memorial Hospital",
+    "city": "Wilmington",
+    "county": "Clinton"
+  },
+  {
+    "name": "Community Memorial Hospital",
+    "city": "Hicksville",
+    "county": "Defiance"
+  },
+  {
+    "name": "Coshocton Regional Medical Center",
+    "city": "Coshocton",
+    "county": "Coshocton"
+  },
+  {
+    "name": "Crystal Clinic Orthopedic Center",
+    "city": "Fairlawn",
+    "county": "Summit"
+  },
+  {
+    "name": "Dayton Children's Hospital",
+    "city": "Dayton",
+    "county": "Montgomery"
+  },
+  {
+    "name": "Dayton VA Medical Center",
+    "city": "Dayton",
+    "county": "Montgomery"
+  },
+  {
+    "name": "Diley Ridge Medical Center",
+    "city": "Canal Winchester",
+    "county": "Fairfield"
+  },
+  {
+    "name": "East Liverpool City Hospital",
+    "city": "East Liverpool",
+    "county": "Columbiana"
+  },
+  {
+    "name": "Fairfield Medical Center",
+    "city": "Lancaster",
+    "county": "Fairfield"
+  },
+  {
+    "name": "Firelands Regional Medical Center",
+    "city": "Sandusky",
+    "county": "Erie"
+  },
+  {
+    "name": "Firelands Regional Medical Center South Campus",
+    "city": "Sandusky",
+    "county": "Erie"
+  },
+  {
+    "name": "Fisher-Titus Medical Center",
+    "city": "Norwalk",
+    "county": "Huron"
+  },
+  {
+    "name": "Fulton County Health Center",
+    "city": "Wauseon",
+    "county": "Fulton"
+  },
+  {
+    "name": "Genesis Hospital",
+    "city": "Zanesville",
+    "county": "Muskingum"
+  },
+  {
+    "name": "Georgetown Behavioral Hospital",
+    "city": "Georgetown",
+    "county": "Brown"
+  },
+  {
+    "name": "Grand Lake Joint Township District Memorial Hospital",
+    "city": "St. Marys",
+    "county": "Auglaize"
+  },
+  {
+    "name": "Henry County Hospital",
+    "city": "Napoleon",
+    "county": "Henry"
+  },
+  {
+    "name": "Highland District Hospital",
+    "city": "Hillsboro",
+    "county": "Highland"
+  },
+  {
+    "name": "Hocking Valley Community Hospital (Ohio State affiliate)",
+    "city": "Logan",
+    "county": "Hocking"
+  },
+  {
+    "name": "Holzer Gallipolis",
+    "city": "Gallipolis",
+    "county": "Gallia"
+  },
+  {
+    "name": "Holzer Medical Center \u2013 Jackson",
+    "city": "Jackson",
+    "county": "Jackson"
+  },
+  {
+    "name": "Insight Hospital and Medical Center Trumbull",
+    "city": "Warren",
+    "county": "Trumbull"
+  },
+  {
+    "name": "Insight Rehabilitation Hospital Hillside",
+    "city": "Warren",
+    "county": "Trumbull"
+  },
+  {
+    "name": "Institute for Orthopaedic Surgery",
+    "city": "Lima",
+    "county": "Allen"
+  },
+  {
+    "name": "Kettering Health Behavioral Medical Center",
+    "city": "Miami Township",
+    "county": "Montgomery"
+  },
+  {
+    "name": "Kettering Health Dayton",
+    "city": "Dayton",
+    "county": "Montgomery"
+  },
+  {
+    "name": "Kettering Health Greene Memorial",
+    "city": "Xenia",
+    "county": "Greene"
+  },
+  {
+    "name": "Kettering Health Hamilton",
+    "city": "Hamilton",
+    "county": "Butler"
+  },
+  {
+    "name": "Kettering Health Main Campus",
+    "city": "Dayton",
+    "county": "Montgomery"
+  },
+  {
+    "name": "Kettering Health Miamisburg",
+    "city": "Miamisburg",
+    "county": "Montgomery"
+  },
+  {
+    "name": "Kettering Health Preble",
+    "city": "Eaton",
+    "county": "Preble"
+  },
+  {
+    "name": "Kettering Health \u2013 Soin Medical Center",
+    "city": "Beavercreek",
+    "county": "Greene"
+  },
+  {
+    "name": "Kettering Health Springfield",
+    "city": "Springfield",
+    "county": "Clark"
+  },
+  {
+    "name": "Kettering Health Troy",
+    "city": "Troy",
+    "county": "Miami"
+  },
+  {
+    "name": "Kettering Health Washington Township",
+    "city": "Washington Township",
+    "county": "Montgomery"
+  },
+  {
+    "name": "Kindred Hospital Dayton",
+    "city": "Dayton",
+    "county": "Montgomery"
+  },
+  {
+    "name": "Kindred Hospital Lima",
+    "city": "Lima",
+    "county": "Allen"
+  },
+  {
+    "name": "King's Daughters Medical Center Ohio",
+    "city": "Portsmouth",
+    "county": "Scioto"
+  },
+  {
+    "name": "Knox Community Hospital",
+    "city": "Mount Vernon",
+    "county": "Knox"
+  },
+  {
+    "name": "Licking Memorial Hospital",
+    "city": "Newark",
+    "county": "Licking"
+  },
+  {
+    "name": "Lima Memorial Hospital",
+    "city": "Lima",
+    "county": "Allen"
+  },
+  {
+    "name": "Louis Stokes Cleveland VA Medical Center",
+    "city": "Cleveland",
+    "county": "Cuyahoga"
+  },
+  {
+    "name": "Madison Health (Ohio State affiliate)",
+    "city": "London",
+    "county": "Madison"
+  },
+  {
+    "name": "Magruder Hospital",
+    "city": "Port Clinton",
+    "county": "Ottawa"
+  },
+  {
+    "name": "Mary Rutan Hospital",
+    "city": "Bellefontaine",
+    "county": "Logan"
+  },
+  {
+    "name": "Mercer County Community Hospital",
+    "city": "Coldwater",
+    "county": "Mercer"
+  },
+  {
+    "name": "Mercy Health Allen Hospital",
+    "city": "Oberlin",
+    "county": "Lorain"
+  },
+  {
+    "name": "Mercy Health Anderson Hospital",
+    "city": "Anderson Township",
+    "county": "Hamilton"
+  },
+  {
+    "name": "Mercy Health Clermont Hospital",
+    "city": "Batavia",
+    "county": "Clermont"
+  },
+  {
+    "name": "Mercy Health Defiance Hospital",
+    "city": "Defiance",
+    "county": "Defiance"
+  },
+  {
+    "name": "Mercy Health Fairfield Hospital",
+    "city": "Fairfield",
+    "county": "Butler"
+  },
+  {
+    "name": "Mercy Health Kings Mills Hospital",
+    "city": "Kings Mills",
+    "county": "Warren"
+  },
+  {
+    "name": "Mercy Health Lorain Hospital",
+    "city": "Lorain",
+    "county": "Lorain"
+  },
+  {
+    "name": "Mercy Health Perrysburg Hospital",
+    "city": "Perrysburg",
+    "county": "Wood"
+  },
+  {
+    "name": "Mercy Health Rehabilitation Hospital",
+    "city": "Liberty Township",
+    "county": "Trumbull"
+  },
+  {
+    "name": "Mercy Health St. Anne Hospital",
+    "city": "Toledo",
+    "county": "Lucas"
+  },
+  {
+    "name": "Mercy Health St. Charles Hospital",
+    "city": "Oregon",
+    "county": "Lucas"
+  },
+  {
+    "name": "Mercy Health St. Elizabeth Boardman Hospital",
+    "city": "Boardman",
+    "county": "Mahoning"
+  },
+  {
+    "name": "Mercy Health St. Elizabeth Youngstown Hospital",
+    "city": "Youngstown",
+    "county": "Mahoning"
+  },
+  {
+    "name": "Mercy Health St. Joseph Warren Hospital",
+    "city": "Warren",
+    "county": "Trumbull"
+  },
+  {
+    "name": "Mercy Health St. Rita's Medical Center",
+    "city": "Lima",
+    "county": "Allen"
+  },
+  {
+    "name": "Mercy Health St. Vincent Medical Center",
+    "city": "Toledo",
+    "county": "Lucas"
+  },
+  {
+    "name": "Mercy Health Springfield Regional Medical Center",
+    "city": "Springfield",
+    "county": "Clark"
+  },
+  {
+    "name": "Mercy Health \u2013 The Jewish Hospital",
+    "city": "Cincinnati",
+    "county": "Hamilton"
+  },
+  {
+    "name": "Mercy Health Tiffin Hospital",
+    "city": "Tiffin",
+    "county": "Seneca"
+  },
+  {
+    "name": "Mercy Health Urbana Hospital",
+    "city": "Urbana",
+    "county": "Champaign"
+  },
+  {
+    "name": "Mercy Health West Hospital",
+    "city": "Cincinnati",
+    "county": "Hamilton"
+  },
+  {
+    "name": "Mercy Health Willard Hospital",
+    "city": "Willard",
+    "county": "Huron"
+  },
+  {
+    "name": "Memorial Health System Marietta Memorial Hospital",
+    "city": "Marietta",
+    "county": "Washington"
+  },
+  {
+    "name": "Memorial Health System Selby General Hospital",
+    "city": "Marietta",
+    "county": "Washington"
+  },
+  {
+    "name": "Memorial Hospital",
+    "city": "Marysville",
+    "county": "Union"
+  },
+  {
+    "name": "MetroHealth Cleveland Heights Medical Center",
+    "city": "Cleveland Heights",
+    "county": "Cuyahoga"
+  },
+  {
+    "name": "MetroHealth Main Campus Medical Center",
+    "city": "Cleveland",
+    "county": "Cuyahoga"
+  },
+  {
+    "name": "MetroHealth Parma Medical Center",
+    "city": "Parma",
+    "county": "Cuyahoga"
+  },
+  {
+    "name": "Morrow County Hospital",
+    "city": "Mt. Gilead",
+    "county": "Morrow"
+  },
+  {
+    "name": "Mount Carmel East",
+    "city": "Columbus",
+    "county": "Franklin"
+  },
+  {
+    "name": "Mount Carmel Grove City",
+    "city": "Grove City",
+    "county": "Franklin"
+  },
+  {
+    "name": "Mount Carmel New Albany",
+    "city": "New Albany",
+    "county": "Franklin"
+  },
+  {
+    "name": "Mount Carmel St. Ann's",
+    "city": "Westerville",
+    "county": "Franklin"
+  },
+  {
+    "name": "Nationwide Children's Hospital",
+    "city": "Columbus",
+    "county": "Franklin"
+  },
+  {
+    "name": "Ohio State East Hospital",
+    "city": "Columbus",
+    "county": "Franklin"
+  },
+  {
+    "name": "Ohio State Harding Hospital",
+    "city": "Columbus",
+    "county": "Franklin"
+  },
+  {
+    "name": "Ohio State University Wexner Medical Center",
+    "city": "Columbus",
+    "county": "Franklin"
+  },
+  {
+    "name": "Ohio Valley Surgical Hospital",
+    "city": "Springfield",
+    "county": "Clark"
+  },
+  {
+    "name": "OhioHealth Arthur G.H. Bing, MD, Cancer Center",
+    "city": "Columbus",
+    "county": "Franklin"
+  },
+  {
+    "name": "OhioHealth Berger Hospital",
+    "city": "Circleville",
+    "county": "Pickaway"
+  },
+  {
+    "name": "OhioHealth Doctors Hospital",
+    "city": "Columbus",
+    "county": "Franklin"
+  },
+  {
+    "name": "OhioHealth Dublin Methodist Hospital",
+    "city": "Dublin",
+    "county": "Franklin"
+  },
+  {
+    "name": "OhioHealth Grady Memorial Hospital",
+    "city": "Delaware",
+    "county": "Delaware"
+  },
+  {
+    "name": "OhioHealth Grant Medical Center",
+    "city": "Columbus",
+    "county": "Franklin"
+  },
+  {
+    "name": "OhioHealth Grove City Methodist Hospital",
+    "city": "Grove City",
+    "county": "Franklin"
+  },
+  {
+    "name": "OhioHealth Hardin Memorial Hospital",
+    "city": "Kenton",
+    "county": "Hardin"
+  },
+  {
+    "name": "OhioHealth Mansfield Hospital",
+    "city": "Mansfield",
+    "county": "Richland"
+  },
+  {
+    "name": "OhioHealth Marion General Hospital",
+    "city": "Marion",
+    "county": "Marion"
+  },
+  {
+    "name": "OhioHealth Nelsonville Health Center",
+    "city": "Nelsonville",
+    "county": "Athens"
+  },
+  {
+    "name": "OhioHealth O'Bleness Hospital",
+    "city": "Athens",
+    "county": "Athens"
+  },
+  {
+    "name": "OhioHealth Pickerington Methodist Hospital",
+    "city": "Pickerington",
+    "county": "Fairfield"
+  },
+  {
+    "name": "OhioHealth Riverside Methodist Hospital",
+    "city": "Columbus",
+    "county": "Franklin"
+  },
+  {
+    "name": "OhioHealth Shelby Hospital",
+    "city": "Shelby",
+    "county": "Richland"
+  },
+  {
+    "name": "OhioHealth Southeastern Medical Center",
+    "city": "Cambridge",
+    "county": "Guernsey"
+  },
+  {
+    "name": "OhioHealth Van Wert Hospital",
+    "city": "Van Wert",
+    "county": "Van Wert"
+  },
+  {
+    "name": "Parkview Health Bryan Hospital",
+    "city": "Bryan",
+    "county": "Williams"
+  },
+  {
+    "name": "Parkview Health Montpelier Hospital",
+    "city": "Montpelier",
+    "county": "Williams"
+  },
+  {
+    "name": "Paulding County Hospital",
+    "city": "Paulding",
+    "county": "Paulding"
+  },
+  {
+    "name": "ProMedica Bay Park Hospital",
+    "city": "Oregon",
+    "county": "Lucas"
+  },
+  {
+    "name": "ProMedica Defiance Regional Hospital",
+    "city": "Defiance",
+    "county": "Defiance"
+  },
+  {
+    "name": "ProMedica Flower Hospital",
+    "city": "Sylvania",
+    "county": "Lucas"
+  },
+  {
+    "name": "ProMedica Fostoria Community Hospital",
+    "city": "Fostoria",
+    "county": "Hancock"
+  },
+  {
+    "name": "ProMedica Memorial Hospital",
+    "city": "Fremont",
+    "county": "Sandusky"
+  },
+  {
+    "name": "ProMedica Toledo Hospital",
+    "city": "Toledo",
+    "county": "Lucas"
+  },
+  {
+    "name": "Pomerene Hospital",
+    "city": "Millersburg",
+    "county": "Holmes"
+  },
+  {
+    "name": "Premier Health Atrium Medical Center",
+    "city": "Middletown",
+    "county": "Warren"
+  },
+  {
+    "name": "Premier Health Miami Valley Hospital",
+    "city": "Dayton",
+    "county": "Montgomery"
+  },
+  {
+    "name": "Premier Health Miami Valley Hospital North",
+    "city": "Englewood",
+    "county": "Montgomery"
+  },
+  {
+    "name": "Premier Health Miami Valley Hospital South",
+    "city": "Centerville",
+    "county": "Montgomery"
+  },
+  {
+    "name": "Premier Health Upper Valley Medical Center",
+    "city": "Troy",
+    "county": "Miami"
+  },
+  {
+    "name": "Regency North Central Ohio - Cleveland East (Select Medical)",
+    "city": "Warrensville Heights",
+    "county": "Cuyahoga"
+  },
+  {
+    "name": "Regency North Central Ohio - Cleveland West (Select Medical)",
+    "city": "Middleburg Heights",
+    "county": "Cuyahoga"
+  },
+  {
+    "name": "Regency Oregon (Select Medical)",
+    "city": "Oregon",
+    "county": "Lucas"
+  },
+  {
+    "name": "Regency Toledo (Select Medical)",
+    "city": "Toledo",
+    "county": "Lucas"
+  },
+  {
+    "name": "Riverview Health Institute",
+    "city": "Dayton",
+    "county": "Montgomery"
+  },
+  {
+    "name": "St. Mary's Medical Center, Ironton Campus",
+    "city": "Ironton",
+    "county": "Lawrence"
+  },
+  {
+    "name": "Salem Regional Medical Center",
+    "city": "Salem",
+    "county": "Columbiana"
+  },
+  {
+    "name": "Shriners Children's Ohio",
+    "city": "Dayton",
+    "county": "Montgomery"
+  },
+  {
+    "name": "Southwest General Health Center (University Hospitals affiliate)",
+    "city": "Middleburg Heights",
+    "county": "Cuyahoga"
+  },
+  {
+    "name": "Select Medical Cleveland Clinic Rehabilitation Hospital, Avon",
+    "city": "Avon",
+    "county": "Lorain"
+  },
+  {
+    "name": "Select Medical Cleveland Clinic Rehabilitation Hospital, Beachwood",
+    "city": "Beachwood",
+    "county": "Cuyahoga"
+  },
+  {
+    "name": "Select Medical Cleveland Clinic Rehabilitation Hospital, Edwin Shaw",
+    "city": "Copley Township",
+    "county": "Summit"
+  },
+  {
+    "name": "Select Medical OhioHealth Rehabilitation Hospital - Dublin",
+    "city": "Dublin",
+    "county": "Franklin"
+  },
+  {
+    "name": "Select Medical Specialty Hospital - Akron",
+    "city": "Akron",
+    "county": "Summit"
+  },
+  {
+    "name": "Select Medical Specialty Hospital - Boardman",
+    "city": "Youngstown",
+    "county": "Mahoning"
+  },
+  {
+    "name": "Select Medical Specialty Hospital - Cleveland-Fairhill",
+    "city": "Cleveland",
+    "county": "Cuyahoga"
+  },
+  {
+    "name": "Select Medical Specialty Hospital - Columbus",
+    "city": "Columbus",
+    "county": "Franklin"
+  },
+  {
+    "name": "Select Medical Specialty Hospital - Columbus South",
+    "city": "Columbus",
+    "county": "Franklin"
+  },
+  {
+    "name": "Select Medical TriHealth Rehabilitation Hospital",
+    "city": "Cincinnati",
+    "county": "Hamilton"
+  },
+  {
+    "name": "Southern Ohio Medical Center",
+    "city": "Portsmouth",
+    "county": "Scioto"
+  },
+  {
+    "name": "Summa Health Akron Campus",
+    "city": "Akron",
+    "county": "Summit"
+  },
+  {
+    "name": "Summa Health Barberton Campus",
+    "city": "Barberton",
+    "county": "Summit"
+  },
+  {
+    "name": "Summa Health Wadsworth - Rittman Medical Center",
+    "city": "Wadsworth",
+    "county": "Medina"
+  },
+  {
+    "name": "The Surgical Hospital at Southwoods",
+    "city": "Boardman",
+    "county": "Mahoning"
+  },
+  {
+    "name": "TriHealth Bethesda Butler Hospital",
+    "city": "Hamilton",
+    "county": "Butler"
+  },
+  {
+    "name": "TriHealth Bethesda North Hospital",
+    "city": "Montgomery",
+    "county": "Hamilton"
+  },
+  {
+    "name": "TriHealth McCullough-Hyde Memorial Hospital",
+    "city": "Oxford",
+    "county": "Butler"
+  },
+  {
+    "name": "TriHealth Good Samaritan Hospital",
+    "city": "Cincinnati",
+    "county": "Hamilton"
+  },
+  {
+    "name": "Trinity Health System East Campus",
+    "city": "Steubenville",
+    "county": "Jefferson"
+  },
+  {
+    "name": "Trinity Health System St. Clairsville Neighborhood Hospital",
+    "city": "St. Clairsville",
+    "county": "Belmont"
+  },
+  {
+    "name": "Trinity Health System Twin City Medical Center",
+    "city": "Dennison",
+    "county": "Tuscarawas"
+  },
+  {
+    "name": "Trinity Health System West Campus",
+    "city": "Steubenville",
+    "county": "Jefferson"
+  },
+  {
+    "name": "Trumbull Regional Medical Center",
+    "city": "Warren",
+    "county": "Trumbull"
+  },
+  {
+    "name": "UC Medical Center",
+    "city": "Cincinnati",
+    "county": "Hamilton"
+  },
+  {
+    "name": "UC West Chester Hospital",
+    "city": "West Chester",
+    "county": "Butler"
+  },
+  {
+    "name": "University Hospitals Ahuja Medical Center",
+    "city": "Beachwood",
+    "county": "Cuyahoga"
+  },
+  {
+    "name": "University Hospitals Beachwood Medical Center",
+    "city": "Beachwood",
+    "county": "Cuyahoga"
+  },
+  {
+    "name": "University Hospitals Cleveland Medical Center",
+    "city": "Cleveland",
+    "county": "Cuyahoga"
+  },
+  {
+    "name": "University Hospitals Conneaut Medical Center",
+    "city": "Conneaut",
+    "county": "Ashtabula"
+  },
+  {
+    "name": "University Hospitals Elyria Medical Center",
+    "city": "Elyria",
+    "county": "Lorain"
+  },
+  {
+    "name": "University Hospitals Geauga Medical Center",
+    "city": "Chardon",
+    "county": "Geauga"
+  },
+  {
+    "name": "University Hospitals Geneva Medical Center",
+    "city": "Geneva",
+    "county": "Ashtabula"
+  },
+  {
+    "name": "University Hospitals Lake West Medical Center",
+    "city": "Willoughby",
+    "county": "Lake"
+  },
+  {
+    "name": "University Hospitals Parma Medical Center",
+    "city": "Parma",
+    "county": "Cuyahoga"
+  },
+  {
+    "name": "University Hospitals Portage Medical Center",
+    "city": "Ravenna",
+    "county": "Portage"
+  },
+  {
+    "name": "University Hospitals St. John Medical Center",
+    "city": "Westlake",
+    "county": "Cuyahoga"
+  },
+  {
+    "name": "University Hospitals Samaritan Medical Center",
+    "city": "Ashland",
+    "county": "Ashland"
+  },
+  {
+    "name": "University Hospitals TriPoint Medical Center",
+    "city": "Concord Township",
+    "county": "Lake"
+  },
+  {
+    "name": "The University of Toledo Medical Center",
+    "city": "Toledo",
+    "county": "Lucas"
+  },
+  {
+    "name": "Wayne HealthCare Main Campus",
+    "city": "Greenville",
+    "county": "Darke"
+  },
+  {
+    "name": "Western Reserve Hospital (University Hospitals affiliate)",
+    "city": "Cuyahoga Falls",
+    "county": "Summit"
+  },
+  {
+    "name": "Wilson Health",
+    "city": "Sidney",
+    "county": "Shelby"
+  },
+  {
+    "name": "Wood County Hospital",
+    "city": "Bowling Green",
+    "county": "Wood"
+  },
+  {
+    "name": "Wooster Community Hospital",
+    "city": "Wooster",
+    "county": "Wayne"
+  },
+  {
+    "name": "Wright-Patterson Medical Center",
+    "city": "Dayton",
+    "county": "Montgomery"
+  },
+  {
+    "name": "WVUMedicine Barnesville Hospital",
+    "city": "Barnesville",
+    "county": "Belmont"
+  },
+  {
+    "name": "WVUMedicine Harrison Community Hospital",
+    "city": "Cadiz",
+    "county": "Harrison"
+  },
+  {
+    "name": "Wyandot Memorial Hospital",
+    "city": "Upper Sandusky",
+    "county": "Wyandot"
+  }
+]
