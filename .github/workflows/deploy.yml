@@ -2,7 +2,7 @@ name: Deploy to GitHub Pages
 
 on:
   push:
-    branches: [main]
+    branches: [main, master]
 
 permissions:
   contents: read
@@ -32,9 +32,6 @@ jobs:
 
       - name: Build
         run: bun run build
-
-      - name: Debug - List output
-        run: ls -la out/ || echo "out directory not found"
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
