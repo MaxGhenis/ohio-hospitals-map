@@ -11,11 +11,21 @@ const REGIONS: Record<RegionFilter, string[]> = {
   toledo: ['Lucas', 'Wood', 'Ottawa', 'Sandusky', 'Fulton'],
 };
 
+// Get the base path for the application
+function getBasePath(): string {
+  // Check if we're in a browser and if the path includes the repo name
+  if (typeof window !== 'undefined' && window.location.pathname.includes('/ohio-hospitals-map')) {
+    return '/ohio-hospitals-map';
+  }
+  return '';
+}
+
 /**
  * Load and process hospital data
  */
 export async function loadHospitals(): Promise<Hospital[]> {
-  const response = await fetch('/data/hospitals.json');
+  const basePath = getBasePath();
+  const response = await fetch(`${basePath}/data/hospitals.json`);
   const data: HospitalRaw[] = await response.json();
 
   return data.map((hospital, index) => ({
